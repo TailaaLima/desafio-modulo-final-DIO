@@ -1,0 +1,15 @@
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\bin\Debug\net8.0\DesafioTDD.exe
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\bin\Debug\net8.0\DesafioTDD.deps.json
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\bin\Debug\net8.0\DesafioTDD.runtimeconfig.json
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\bin\Debug\net8.0\DesafioTDD.dll
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\bin\Debug\net8.0\DesafioTDD.pdb
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.sourcelink.json
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.dll
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\refint\DesafioTDD.dll
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.pdb
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\DesafioTDD.genruntimeconfig.cache
+C:\Users\Taila\Desktop\Projetos\DesafioTDD\DesafioTDD\obj\Debug\net8.0\ref\DesafioTDD.dll
